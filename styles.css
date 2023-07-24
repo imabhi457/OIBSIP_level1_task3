@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background:black;
+  }
+  
+  header {
+    background-image: url(img11.jpg);
+    color: #fff;    
+    padding: 20px;
+    text-align: center;
+    position:sticky;
+  }
+  
+  section {
+    background-image: url(img1.jpg);
+  
+    height: 250px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  input {
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  p {
+    font-weight: bold;
+  }
+  
